@@ -9,3 +9,6 @@ Low Memory	|Mass Production	|Concurrency
 최적화		 	|재사용,객제지향		|동시성
 
 - OOP와 FP는 대척점이 아니고, 상황에 맞게 사용
+
+- side-effect: 기존 데이터가 변경되어 동시에 수행되는 프로그램에 영향을 주는 것
+- side-effect가 없도록 프로그램을 짜야하기 때문에 FP가 주목받게 됨.
